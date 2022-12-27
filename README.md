@@ -51,7 +51,7 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
 
 ### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&cound=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1)
 ---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" /></p>
