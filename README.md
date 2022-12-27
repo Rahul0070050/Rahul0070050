@@ -9,7 +9,10 @@
 </div>
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,8 +40,6 @@
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
 
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" /></p>
 
