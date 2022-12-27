@@ -8,6 +8,9 @@
        alt="snake" /></a>
 </div>
 
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" /></p>
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
