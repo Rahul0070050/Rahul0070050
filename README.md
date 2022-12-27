@@ -50,8 +50,6 @@
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
 
-### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1)
 ---
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" /></p>
@@ -64,5 +62,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   </div>
   <br/>
+  
+### Spotify Playing 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&cound=1)
+
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   
