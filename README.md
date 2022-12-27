@@ -11,7 +11,7 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rahul!;I'm+a+MERN+Stack+Developer...;I'm+also+react+native+ Developer;And+I'm+a+proud+indian)(https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rahul!;I'm+a+MERN+Stack+Developer...;I'm+also+react+native+ Developer;And+I'm+a+proud+indian)](https://git.io/typing-svg)
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
