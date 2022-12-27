@@ -2,6 +2,8 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, my name is Rahul! <img src="https://github.com/rahul0070050/Rahul0070050/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rahul!;I'm+a+MERN+Stack+Developer...;I'm+also+React+Native+Developer;)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
@@ -10,8 +12,6 @@
 
 
 <!-- <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rahul!;I'm+a+MERN+Stack+Developer...;I'm+also+React+Native+Developer;And+I'm+a+proud+Indian)](https://git.io/typing-svg)
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
