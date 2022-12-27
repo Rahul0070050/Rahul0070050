@@ -46,6 +46,11 @@
 
 
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" /></p>
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
