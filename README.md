@@ -2,7 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, my name is Rahul! <img src="https://github.com/rahul0070050/Rahul0070050/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="10897308" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/waving-wave-hand-emoji-gif-10897308">Waving Wave GIF</a>from <a href="https://tenor.com/search/waving-gifs">Waving GIFs</a></div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Rahul!;I'm+a+MERN+Stack+Developer...;I'm+also+React+Native+Developer;)](https://git.io/typing-svg)
 
