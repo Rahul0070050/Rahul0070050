@@ -69,8 +69,6 @@
   
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
-    <br />
-
     
   ### Spotify Playing 🎧
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1" />
