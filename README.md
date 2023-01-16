@@ -68,7 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   </div>
 <br/>
-<div align="center" style="padding: 10rem 0 0 0; background-color: red;">
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=rahul0070050"
 <!--   [![trophy](https://github-profile-trophy.vercel.app/?username=rahul0070050)](https://github.com/ryo-ma/github-profile-trophy) -->
 </div>
