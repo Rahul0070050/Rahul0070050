@@ -69,7 +69,8 @@
   </div>
 <br/>
 <divalign="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=rahul0070050)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=rahul0070050"
+<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=rahul0070050)](https://github.com/ryo-ma/github-profile-trophy) -->
 </div>
   
 <div align="center">
