@@ -55,7 +55,6 @@
 
 ---
 
-<summary><b>💻 GitHub Profile Stats</b></summary>
 
 <br/>
 
@@ -63,6 +62,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
 </div>
 <br />
+<summary><b>💻 GitHub Profile Stats</b></summary>
+
 <div align="center">
   <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahul0070050&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   
