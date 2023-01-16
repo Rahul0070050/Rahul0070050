@@ -59,18 +59,19 @@
 
 <br/>
 
+<div align="center" style="display: flex;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
+</div>
+<br />
 <div align="center">
   <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahul0070050&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
 </div>
 <br/>
-<div align="center" style="display: flex;">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
-  
+
+<div align="center" style="display: flex;">  
   <img src="https://github-profile-trophy.vercel.app/?username=rahul0070050&column=3&margin-w=15&margin-h=15" />
-  
 </div>
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
 
