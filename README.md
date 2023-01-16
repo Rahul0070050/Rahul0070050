@@ -67,18 +67,17 @@
 <br/>
 <div align="center" style="display: flex;">
   
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
-    
-  ### Spotify Playing 🎧
-
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1" />
-    
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
   
   <img src="https://github-profile-trophy.vercel.app/?username=rahul0070050&column=3&margin-w=15&margin-h=15" />
   
 </div>
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
-  
+
+### Spotify Playing 🎧
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1" />
+    
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
