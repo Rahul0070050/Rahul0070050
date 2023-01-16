@@ -65,7 +65,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
 </div>
 <br/>
-<div align="center">
+<div align="center" style="display: flex;">
   
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
