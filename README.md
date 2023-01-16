@@ -72,6 +72,7 @@
 <br/>
 
 <div align="center" style="display: flex;">  
+  <img src="https://metrics.lecoq.io/rahul0070050" />
   <img src="https://github-profile-trophy.vercel.app/?username=rahul0070050&column=3&margin-w=15&margin-h=15" />
 </div>
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
