@@ -55,29 +55,33 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
-</p>
-
 <summary><b>💻 GitHub Profile Stats</b></summary>
 
 <br/>
 
 <div align="center">
   <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahul0070050&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-  </div>
+</div>
 <br/>
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rahul0070050&column=3&margin-w=15&margin-h=15" />
-<!--   [![trophy](https://github-profile-trophy.vercel.app/?username=rahul0070050)](https://github.com/ryo-ma/github-profile-trophy) -->
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
+    <br />
+    ### Spotify Playing 🎧
+    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1)
+  </p>
+  
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=rahul0070050&column=3&margin-w=15&margin-h=15" />
+  </p>
+  
 </div>
   
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
   
-### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1)
