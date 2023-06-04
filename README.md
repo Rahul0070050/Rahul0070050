@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on Hospital managemant system :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2023 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: Let's get in touch ![linkedin](https://www.linkedin.com/in/rahul-or-89906b1a8/)
 - 🧗 I try to: Go beyond and push the bounds
