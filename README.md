@@ -14,7 +14,7 @@
 
 
 ### I am a Full Stack Developer
-- 🔭 I’m currently working on Hospital managemant system :grin:
+- 🔭 I’m currently working on web free icons project (vs code extension) :grin:
 - 🌱 I’m currently learning MERN Stack Development.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2023 Goals: Contribute to Open Source projects
