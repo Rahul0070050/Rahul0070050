@@ -80,12 +80,4 @@
 </div>
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
 
-### Spotify Playing 🎧
-
-<!-- <img src="https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1" /> -->
-    
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
 
