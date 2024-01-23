@@ -14,11 +14,11 @@
 
 
 ### I am a Full Stack Developer
-- 🔭 I’m currently working on web free icons project (learn for care ![e-learning website(http://learnforcare.co.uk)]) :grin:
+- 🔭 I’m currently working on web free icons project [learn for care] ![e-learning website](http://learnforcare.co.uk) :grin:
 - 🌱 I’m currently learning Svelte.
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 2024 Goals: Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help :smile:
+- 💬 Ask me about MERN, I am happy to help :smile:
 - 📬 How to reach me: Let's get in touch ![linkedin](https://www.linkedin.com/in/rahul-or-89906b1a8/)
 - 🧗 I try to: Go beyond and push the bounds
 - ⚡ Fun fact: I love connecting with different people :raised_hands:
