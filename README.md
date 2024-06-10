@@ -3,7 +3,7 @@
 </div>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Rahul!;I'm+a+MERN+Stack+Developer...;I'm+also+React+Native+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Rahul!;I'm+a+Full+Stack+Stack+Developer...;)](https://git.io/typing-svg)
 
 
 
@@ -12,17 +12,7 @@
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
-
-### I am a Full Stack Developer
-- 🔭 I’m currently working on web free icons project [learn for care] [e-learning website](http://learnforcare.co.uk) :grin:
-- 🌱 I’m currently learning Svelte.
-- 👯 I’m looking to collaborate with other Developers :wink:
-- 🥅 2024 Goals: Contribute to Open Source projects
-- 💬 Ask me about MERN, I am happy to help :smile:
-- 📬 How to reach me: Let's get in touch [linkedin](https://www.linkedin.com/in/rahul-or-89906b1a8/)
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
-
+I'm Rahul, a dedicated full-stack developer with a passion for creating scalable, efficient web applications. I excel at solving complex problems and transforming innovative ideas into functional, high-quality code. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to development, ensuring seamless integration and optimal performance.
 
 
 
@@ -79,12 +69,12 @@
 <div align="center">
   <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahul0070050&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=15&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
 </div>
 <br/>
 
 <div align="center" style="display: flex;">  
-  <img src="https://metrics.lecoq.io/rahul0070050" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--   <img src="https://metrics.lecoq.io/rahul0070050" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
   <img src="https://github-profile-trophy.vercel.app/?username=rahul0070050&column=3&margin-w=15&margin-h=15" />
 </div>
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
