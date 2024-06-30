@@ -77,9 +77,9 @@ I'm Rahul, a dedicated full-stack developer with a passion for creating scalable
 <br/>
 
 <div align="center">
-  <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahul0070050&show_icons=true&count_private=true&theme=algolia&card_width=500" height="192px"/>
+  <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahul0070050&show_icons=true&count_private=true&theme=algolia" height="192px"/>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=15&show_icons=true&locale=en&layout=compact&theme=algolia&card_width=500" alt="7oSkaaa" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=15&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
 </div>
 
 </br>
