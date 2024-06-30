@@ -61,22 +61,33 @@ I'm Rahul, a dedicated full-stack developer with a passion for creating scalable
 <br/>
 
 <div align="center" style="display: flex;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia" alt="7oSkaaa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul0070050&theme=algolia&card_width=600" alt="7oSkaaa" />
 </div>
-<br />
-<summary><b>💻 GitHub Profile Stats</b></summary>
 
-<div align="center">
-  <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahul0070050&show_icons=true&count_private=true&theme=algolia" height="192px"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=15&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
-</div>
 <br/>
+
+<!-- <summary><b>💻 GitHub Profile Stats</b></summary> -->
+
 
 <div align="center" style="display: flex;">  
 <!--   <img src="https://metrics.lecoq.io/rahul0070050" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <img src="https://github-profile-trophy.vercel.app/?username=rahul0070050&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahul0070050&column=5&margin-w=15&margin-h=15" />
 </div>
+
+<br/>
+
+<div align="center">
+  <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahul0070050&show_icons=true&count_private=true&theme=algolia&card_width=500" height="192px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul0070050&langs_count=15&show_icons=true&locale=en&layout=compact&theme=algolia&card_width=500" alt="7oSkaaa" height="192px"/>
+</div>
+
+</br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rahul0070050&bg_color=000000&color=9e4c98&line=9e4c98&point=525252&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
 <!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5mq4sqvyz18byydav016hzldb&count=1) -->
 
 
