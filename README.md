@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, my name is Rahul! <img src="https://github.com/rahul0070050/Rahul0070050/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, My name is Rahul! <img src="https://github.com/rahul0070050/Rahul0070050/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 
@@ -12,7 +12,7 @@
 
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
 
-I'm Rahul dedicated full-stack developer with a passion for creating scalable, efficient web applications. I excel at solving complex problems and transforming innovative ideas into functional, high-quality code. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to development, ensuring seamless integration and optimal performance.
+I'm Rahul, a dedicated full-stack developer with a passion for creating scalable, efficient web applications. I excel at solving complex problems and transforming innovative ideas into functional, high-quality code. With a strong foundation in both front-end and back-end technologies, I bring a holistic approach to development, ensuring seamless integration and optimal performance.
 
 
 
